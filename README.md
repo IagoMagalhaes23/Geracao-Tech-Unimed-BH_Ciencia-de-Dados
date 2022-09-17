@@ -22,9 +22,9 @@
 - [X] Aprendendo a Utilizar Dicionários em Python
 - [X] Dominando Funções Python
 - [ ] Fundamentos de ETL (Extract, Transform, Load) com Python
-- [ ] Introdução à Programação Orientada a Objetos (POO) com Python
-- [ ] Aprendendo o Conceito de Herança com Python
-- [ ] Aplicando Encapsulamento em Python
+- [X] Introdução à Programação Orientada a Objetos (POO) com Python
+- [X] Aprendendo o Conceito de Herança com Python
+- [X] Aplicando Encapsulamento em Python
 - [ ] Conhecendo Polimorfismo em Python
 - [ ] Ampliando o conhecimento em POO com Python
 ### Bancos de Dados SQL e NoSQL
