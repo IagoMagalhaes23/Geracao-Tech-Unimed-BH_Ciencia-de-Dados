@@ -47,9 +47,9 @@
 - [ ] Introdução a Engenharia de Dados na AWS
 - [ ] Imersão ao Ecossistema Cloud Data AWS
 ### Machine Learning
-- [ ] Linguagens de Programação para Machine Learning
+- [X] Linguagens de Programação para Machine Learning
 - [ ] Python para Machine Learning
-- [ ] R para Machine Learning
+- [X] R para Machine Learning
 - [ ] Entendendo Machine Learning com Amazon SageMaker
 
 ## Projetos
