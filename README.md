@@ -25,8 +25,8 @@
 - [X] Introdução à Programação Orientada a Objetos (POO) com Python
 - [X] Aprendendo o Conceito de Herança com Python
 - [X] Aplicando Encapsulamento em Python
-- [ ] Conhecendo Polimorfismo em Python
-- [ ] Ampliando o conhecimento em POO com Python
+- [X] Conhecendo Polimorfismo em Python
+- [X] Ampliando o conhecimento em POO com Python
 ### Bancos de Dados SQL e NoSQL
 - [X] Introdução a Banco de Dados
 - [X] Sistemas de Gerenciamento de Banco de Dados
@@ -48,7 +48,7 @@
 - [ ] Imersão ao Ecossistema Cloud Data AWS
 ### Machine Learning
 - [X] Linguagens de Programação para Machine Learning
-- [ ] Python para Machine Learning
+- [X] Python para Machine Learning
 - [X] R para Machine Learning
 - [ ] Entendendo Machine Learning com Amazon SageMaker
 
@@ -59,10 +59,10 @@
 - [ ] Desafios Intermediários Py - Unimed-BH
 - [ ] Descomplicando a criação de pacotes de processamento de imagens em Python
 - [ ] Criando modelos com Python e Machine Learning para prever a evolução do COVID-19 no Brasil
-- [ ] Refinando um Projeto Conceitual de Banco de Dados - E-COMMERCE
-- [ ] Construindo um Esquema Conceitual para Banco de Dados
-- [ ] Construindo seu Primeiro Projeto Lógico de Banco de Dados
-- [ ] Construa um Projeto Lógico de Banco de Dados do Zero
+- [X] Refinando um Projeto Conceitual de Banco de Dados - E-COMMERCE
+- [X] Construindo um Esquema Conceitual para Banco de Dados
+- [X] Construindo seu Primeiro Projeto Lógico de Banco de Dados
+- [X] Construa um Projeto Lógico de Banco de Dados do Zero
 - [ ] Boas práticas com DynamoDB
 - [ ] Explorando Dados Demográficos com Serviços de Big Data na AWS
 - [ ] Treinamento de Redes Neurais com Transfer Learning
