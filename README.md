@@ -21,7 +21,7 @@
 - [X] Explorando Conjuntos em Python
 - [X] Aprendendo a Utilizar Dicionários em Python
 - [X] Dominando Funções Python
-- [ ] Fundamentos de ETL (Extract, Transform, Load) com Python
+- [X] Fundamentos de ETL (Extract, Transform, Load) com Python
 - [X] Introdução à Programação Orientada a Objetos (POO) com Python
 - [X] Aprendendo o Conceito de Herança com Python
 - [X] Aplicando Encapsulamento em Python
@@ -56,7 +56,7 @@
 - [X] Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
 - [X] Desafios Iniciais Py - Unimed-BH
 - [X] Análise de dados com Python e Pandas
-- [ ] Desafios Intermediários Py - Unimed-BH
+- [X] Desafios Intermediários Py - Unimed-BH
 - [ ] Descomplicando a criação de pacotes de processamento de imagens em Python
 - [ ] Criando modelos com Python e Machine Learning para prever a evolução do COVID-19 no Brasil
 - [X] Refinando um Projeto Conceitual de Banco de Dados - E-COMMERCE
