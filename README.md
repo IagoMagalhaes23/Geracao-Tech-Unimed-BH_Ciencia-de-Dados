@@ -65,6 +65,6 @@
 - [X] Construa um Projeto Lógico de Banco de Dados do Zero
 - [ ] Boas práticas com DynamoDB
 - [ ] Explorando Dados Demográficos com Serviços de Big Data na AWS
-- [ ] Treinamento de Redes Neurais com Transfer Learning
+- [X] Treinamento de Redes Neurais com Transfer Learning
 
 ## Links de estudo
