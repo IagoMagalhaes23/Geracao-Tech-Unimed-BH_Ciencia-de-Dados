@@ -58,7 +58,7 @@
 - [X] Análise de dados com Python e Pandas
 - [X] Desafios Intermediários Py - Unimed-BH
 - [X] Descomplicando a criação de pacotes de processamento de imagens em Python
-- [ ] Criando modelos com Python e Machine Learning para prever a evolução do COVID-19 no Brasil
+- [X] Criando modelos com Python e Machine Learning para prever a evolução do COVID-19 no Brasil
 - [X] Refinando um Projeto Conceitual de Banco de Dados - E-COMMERCE
 - [X] Construindo um Esquema Conceitual para Banco de Dados
 - [X] Construindo seu Primeiro Projeto Lógico de Banco de Dados
