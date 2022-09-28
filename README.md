@@ -44,7 +44,7 @@
 ### Imersão Cloud Computer
 - [ ] Primeiro Passos com AWS
 - [ ] Desenvolvendo Soluções Serverless na AWS
-- [ ] Introdução a Engenharia de Dados na AWS
+- [X] Introdução a Engenharia de Dados na AWS
 - [ ] Imersão ao Ecossistema Cloud Data AWS
 ### Machine Learning
 - [X] Linguagens de Programação para Machine Learning
