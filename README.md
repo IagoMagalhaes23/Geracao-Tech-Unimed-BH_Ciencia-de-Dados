@@ -50,7 +50,7 @@
 - [X] Linguagens de Programação para Machine Learning
 - [X] Python para Machine Learning
 - [X] R para Machine Learning
-- [ ] Entendendo Machine Learning com Amazon SageMaker
+- [X] Entendendo Machine Learning com Amazon SageMaker
 
 ## Projetos
 - [X] Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
