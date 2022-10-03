@@ -67,4 +67,6 @@
 - [ ] Explorando Dados Demográficos com Serviços de Big Data na AWS
 - [X] Treinamento de Redes Neurais com Transfer Learning
 
-## Links de estudo
+## Links para projetos no Colab
+- Análise de dados com Python e Pandas: 
+- Treinamento de Redes Neurais com Transfer Learning: 
