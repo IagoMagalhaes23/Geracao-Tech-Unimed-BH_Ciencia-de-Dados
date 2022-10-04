@@ -42,7 +42,7 @@
 - [X] Agrupando Registros e Tabelas com Join Statement
 - [X] Introdução ao MongoDB e Banco de Dados NoSQL
 ### Imersão Cloud Computer
-- [ ] Primeiro Passos com AWS
+- [X] Primeiro Passos com AWS
 - [ ] Desenvolvendo Soluções Serverless na AWS
 - [X] Introdução a Engenharia de Dados na AWS
 - [X] Imersão ao Ecossistema Cloud Data AWS
