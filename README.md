@@ -43,7 +43,7 @@
 - [X] Introdução ao MongoDB e Banco de Dados NoSQL
 ### Imersão Cloud Computer
 - [X] Primeiro Passos com AWS
-- [ ] Desenvolvendo Soluções Serverless na AWS
+- [X] Desenvolvendo Soluções Serverless na AWS
 - [X] Introdução a Engenharia de Dados na AWS
 - [X] Imersão ao Ecossistema Cloud Data AWS
 ### Machine Learning
