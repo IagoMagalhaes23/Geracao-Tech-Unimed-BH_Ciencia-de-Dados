@@ -63,7 +63,7 @@
 - [X] Construindo um Esquema Conceitual para Banco de Dados
 - [X] Construindo seu Primeiro Projeto Lógico de Banco de Dados
 - [X] Construa um Projeto Lógico de Banco de Dados do Zero
-- [ ] Boas práticas com DynamoDB
+- [X] Boas práticas com DynamoDB
 - [ ] Explorando Dados Demográficos com Serviços de Big Data na AWS
 - [X] Treinamento de Redes Neurais com Transfer Learning
 
