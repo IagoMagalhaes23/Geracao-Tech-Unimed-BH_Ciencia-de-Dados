@@ -64,7 +64,7 @@
 - [X] Construindo seu Primeiro Projeto Lógico de Banco de Dados
 - [X] Construa um Projeto Lógico de Banco de Dados do Zero
 - [X] Boas práticas com DynamoDB
-- [ ] Explorando Dados Demográficos com Serviços de Big Data na AWS
+- [X] Explorando Dados Demográficos com Serviços de Big Data na AWS
 - [X] Treinamento de Redes Neurais com Transfer Learning
 
 ## Links para projetos no Colab
